@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "wslider-portfolio-site",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ad47c05a-80d7-48ca-8053-f361d255ecd8",
+			"database_name": "wslider-portfolio-site-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
